@@ -1,0 +1,1 @@
+Start-BitsTransfer -Source http://10.24.96.254:8888/xjnlp-midata.jnlp -Destination C:\Downloads\midata_install.jnlp
